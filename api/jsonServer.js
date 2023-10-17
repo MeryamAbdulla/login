@@ -1,5 +1,5 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "https://content.unance.com.tr/api",
+  baseURL: "https://yourAPİ.com.tr/api",
 });
