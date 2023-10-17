@@ -41,7 +41,8 @@ Register olduktan sonra home sayfasına yönlendirileceksiniz, oradan da exit tu
 ## Ekran Görüntüleri
 
 
-https://github.com/MeryamAbdulla/login/assets/86762856/8765e400-1629-4898-ab64-46b4828217cd
+https://github.com/MeryamAbdulla/login-register/assets/86762856/8bec3a3b-b2db-4d3f-9bb6-f1a11cefc546
+
 
 
 ## Notlar
