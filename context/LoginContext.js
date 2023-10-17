@@ -19,8 +19,8 @@ const loginReducer = (state, action) => {
 
 const registerUser = (dispatch) => {
   return async (name, email, password, callback) => {
-    await jsonServer.post("/register", { name, email, password });
-    dispatch({ type: "register_user", payload: { name, email, password } });
+    const response = await jsonServer.post("/register", { name, email, password });
+    dispatch({ type: "register_user", payload: { name, email, password, token: response.data.token } });
     if (callback) {
       callback();
     }
