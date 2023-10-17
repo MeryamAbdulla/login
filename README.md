@@ -40,7 +40,8 @@ Register olduktan sonra home sayfasına yönlendirileceksiniz, oradan da exit tu
 
 ## Ekran Görüntüleri
 
-![ezgif com-video-to-gif](https://github.com/MeryamAbdulla/login-register/assets/86762856/efe6a660-49ee-455c-8149-09564d87d41a)
+
+![ezgif com-video-to-gif (1)](https://github.com/MeryamAbdulla/login-register/assets/86762856/042be8cd-f8a4-44f2-a5c1-ad6c7e58601e)
 
 
 
